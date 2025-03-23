@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://facebook.com/projectlorprojectlor" target="blank">
+  <a href="https://facebook.com/projectlor" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungdevpi-facebook" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
